@@ -72,7 +72,7 @@ The system includes:
 
 | S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
 
-<img width="1128" height="1161" alt="image" src="https://github.com/user-attachments/assets/a9bb9ae3-7052-4df8-83c3-a69b1896c7a0" />
+<img width="1280" height="1156" alt="WhatsApp Image 2026-04-18 at 2 05 40 PM" src="https://github.com/user-attachments/assets/3d93ac6c-1518-409a-bc5b-d09467382ba0" />
 
 
 ## Graphs
